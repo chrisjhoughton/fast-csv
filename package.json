@@ -1,5 +1,5 @@
 {
-  "name": "fast-csv",
+  "name": "@beacon/fast-csv",
   "version": "2.4.1",
   "description": "CSV parser and writer",
   "main": "index.js",
